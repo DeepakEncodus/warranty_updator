@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977945685033",
+    "project_id": "warranty-updator",
+    "storage_bucket": "warranty-updator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977945685033:android:0765a0d2c7457d29450038",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977945685033-6gumjo9isd8i3l4edspggksbfdqlrk83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notification",
+            "certificate_hash": "030193fe1fa2b0e9f4e6b86ed298e2b84649671c"
+          }
+        },
+        {
+          "client_id": "977945685033-alihv5irocqq81vrprq6n9r7g253dije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZWYgJ4wsrdGgBJDuWAS0cW9p6RsCVlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977945685033-alihv5irocqq81vrprq6n9r7g253dije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
